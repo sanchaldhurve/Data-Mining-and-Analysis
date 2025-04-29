@@ -1,3 +1,4 @@
 # Data Mining and Analysis
 
-This folder contains the assignments for the DSC 441 course, Fundamentals of Data Science. The assignment focuses on key data mining concepts including data cleaning, clustering, classification, and association rule mining. It includes both conceptual responses and applied examples. Supporting files such as datasets and R scripts used for analysis are included to demonstrate practical implementation using R.
+This repository contains coursework completed for DSC 441: Fundamentals of Data Science. Each folder includes a structured assignment focused on key topics such as data preprocessing, data mining techniques, predictive modeling, and machine learning using R. Assignments cover a range of tasks including clustering, classification (e.g., SVM, decision trees), normalization techniques, exploratory data analysis, and rule-based modeling. Where applicable, source datasets and R scripts are included to demonstrate practical implementations of the concepts.
+
